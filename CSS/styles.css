@@ -1,0 +1,26 @@
+body{
+  background-color: #f1d6ab;
+}
+
+hr{
+  border-style: dotted none none none;
+  border-color: grey;
+  border-width: 5px;
+  height:2px;
+  width: 5%;
+}
+
+
+/******************************Class Selectors***********************AF6F6*/
+.role{
+  font-weight: bold;
+}
+
+.rolespacing{
+    padding:0 15px 0 15px;
+}
+
+.skillset{
+    color: red;
+    font-size: 110%;
+}
